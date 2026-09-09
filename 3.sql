@@ -1,0 +1,2 @@
+SELECT * FROM fruit_stand
+WHERE price BETWEEN 1 AND 2;
